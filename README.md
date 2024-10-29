@@ -73,10 +73,11 @@ If you can't get this to work, see the [Troubleshooting](https://reactnative.dev
 To learn more about React Native, take a look at the following resources:
 
 - [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Figma](https://www.figma.com/design/X8nhgDk9PfOeIKGp0Rqpfn/MyNotes-Infoeste?node-id=0-1&t=6qP0cloHoKv87yFB-1) 
-- [Heroku](https://my-notes-infoeste-126fd36f6de4.herokuapp.com/) - https://my-notes-infoeste-126fd36f6de4.herokuapp.com/
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
 # my-notes-infoeste-frontend-base
+
+- [Figma](https://www.figma.com/design/X8nhgDk9PfOeIKGp0Rqpfn/MyNotes-Infoeste?node-id=0-1&t=6qP0cloHoKv87yFB-1) 
+- [Heroku](https://my-notes-infoeste-126fd36f6de4.herokuapp.com/) - https://my-notes-infoeste-126fd36f6de4.herokuapp.com/
